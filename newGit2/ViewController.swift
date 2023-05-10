@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         print("Hi!")
     }
 
-
+    func doStuff(){
+        print("stuff done!")
+    }
+    
+    
 }
 
