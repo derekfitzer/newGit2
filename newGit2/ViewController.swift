@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         print("stuff done!")
     }
     
+    func anotherAdd(){
+        print("asdf")
+    }
     
 }
 
